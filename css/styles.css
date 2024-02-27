@@ -1,0 +1,31 @@
+*{
+    font-family: impact;
+    margin: 25px;
+}
+body{
+    background: linear-gradient(to right, navy, skyblue);
+    width: 98%;
+    height: 200px;
+}
+h1{
+    padding: 15px;
+    border: 4px;
+    border-style: dashed;
+    color: whitesmoke;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    border-color: blue;
+}
+p{
+    color: white;
+    text-align: justify;
+    border-radius: 25px;
+    border-style: solid;
+    padding: 10px; /*relleno*/
+
+}
+img{
+    width: 45%;
+    align-items: center;
+}
